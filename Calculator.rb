@@ -1,5 +1,4 @@
-class Calculator
-  
+class Calculator  
   def add(a, b)
     a + b
   end
@@ -7,5 +6,4 @@ class Calculator
   def sub(a, b)
     a - b
   end
-
 end
